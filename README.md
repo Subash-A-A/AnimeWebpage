@@ -1,2 +1,2 @@
-# SolialMediaWebpage
+# SocialMediaWebpage
 working in progress.....
