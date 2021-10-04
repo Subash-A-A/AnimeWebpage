@@ -1,2 +1,2 @@
 # AnimeWebpage
-clone of https://myanimelist.net/
+simple AnimeDisplayPage
